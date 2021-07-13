@@ -19,8 +19,8 @@ const items = [
 
 export default () => {
     return (
-    <div>
+    <div className="ui container">
         <Search />
     </div>
     );
-};
+}
