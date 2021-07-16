@@ -1,3 +1,4 @@
+// AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
 import React, {useState} from 'react';
 import Dropdown from './Dropdown'
 import Convert from './Convert'
@@ -14,10 +15,6 @@ const options = [
     {
         label: 'Hindi',
         value: 'hi'
-    },
-    {
-        label: 'English',
-        value: 'en'
     }
 ];
 
